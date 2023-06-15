@@ -1,0 +1,38 @@
+kill ----> to stop running process
+
+top ------> dsiplay running process
+
+
+ps -------> active process
+
+
+head ------> display top 10 lines of file 
+
+tail -------> bottom 10 lines of file 
+
+
+ pwd-----> present working directory
+
+
+
+cd-----> change directory 
+
+
+absolute path---> path from root(/) directiory to destination
+
+
+relative path----> path from current worrking directory to desitination
+
+
+ls -a   display all files including hidden files
+
+
+find ---> used to searche file/ directory
+
+grep----> used to search pattern inside the file 
+
+
+
+
+
+
