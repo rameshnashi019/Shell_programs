@@ -1,9 +1,7 @@
 #!/bin/bash
 
-echo " enter first number"
-read a
- echo " enter second number : "
-read b
+a=3
+b=2
 
 c=`expr $a + $b`
 
