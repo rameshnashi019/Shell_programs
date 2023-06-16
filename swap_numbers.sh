@@ -2,22 +2,22 @@
 
 set -x
 echo " enter first number :"
-read num1
+read num11
 
 
 echo " enter second number :"
-read num2
+read num12
 
 
 
-num1=`expr $num1 + $num2`
+num11=`expr $num11 + $num12`
 
-num2=`expr $num1 - $num2`
+num12=`expr $num11 - $num12`
 
-num1=`expr $num1 - $num2`
+num11=`expr $num11 - $num12`
 
 
-echo $num1
+echo $num11
 
-echo $num2
+echo $num12
 
