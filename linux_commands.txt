@@ -26,7 +26,7 @@ relative path----> path from current worrking directory to desitination
 
 ls -a   display all files including hidden files
 
-
+ls -i    display node number of files and directory 
 find ---> used to searche file/ directory
 
 grep----> used to search pattern inside the file 
